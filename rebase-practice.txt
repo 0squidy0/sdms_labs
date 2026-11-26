@@ -1,2 +1,3 @@
-Initial version for rebase practice 
-Changes from main branch 
+Initial version for rebase practice
+Changes from main branch
+Changes from feature-rebase branch
